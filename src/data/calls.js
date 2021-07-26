@@ -26,13 +26,13 @@ export const DialerList =[
         id:1,
         name:"Alice Patterson",
         type:"Student",
-        avatar:"https://image.flaticon.com/icons/png/128/4264/4264828.png",
+        avatar:"https://image.flaticon.com/icons/png/128/219/219969.png",
     },
     {
         id:2,
         name:"Alberto Bryant",
         type:"Teacher",
-        avatar:"https://image.flaticon.com/icons/png/128/2202/2202090.png",
+        avatar:"https://image.flaticon.com/icons/png/128/145/145843.png",
     },
     {
         id:3,
@@ -72,13 +72,13 @@ export const CallsContact = [
         id:5,
         name:"Rose Sanders",
          type:"Coordinator",
-         avatar:"https://image.flaticon.com/icons/png/128/219/219969.png",
+         avatar:"https://image.flaticon.com/icons/png/128/4264/4264828.png",
     },
     {
         id:6,
         name:"Carlos Patterson",
          type:"Admin",
-         avatar:"https://image.flaticon.com/icons/png/128/145/145843.png",
+         avatar:"https://image.flaticon.com/icons/png/128/2202/2202090.pnggit ",
     },
     {
         id:7,
