@@ -78,7 +78,7 @@ export const CallsContact = [
         id:6,
         name:"Carlos Patterson",
          type:"Admin",
-         avatar:"https://image.flaticon.com/icons/png/128/2202/2202090.pnggit ",
+         avatar:"https://image.flaticon.com/icons/png/128/2202/2202090.png",
     },
     {
         id:7,
