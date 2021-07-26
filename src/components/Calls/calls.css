@@ -1,0 +1,23 @@
+
+.calls-container{
+    width: 100%;
+    height: 100vh;
+}
+.calls-body{
+    width: 100%;
+    display: flex;
+    height: 94%;
+    flex:1;
+}
+.calls-sidebar{
+    display: flex;
+    flex:1;
+}
+.calls-leftFold{
+    display: flex;
+    flex:3;
+}
+.calls-rightFold{
+    display: flex;
+    flex:11;
+}
