@@ -26,19 +26,19 @@ export const DialerList =[
         id:1,
         name:"Alice Patterson",
         type:"Student",
-        avatar:"https://img-premium.flaticon.com/png/128/706/premium/706820.png?token=exp=1627226942~hmac=75f0cf3ddff604f4fec6f1f02a3aba53",
+        avatar:"https://image.flaticon.com/icons/png/128/4264/4264828.png",
     },
     {
         id:2,
         name:"Alberto Bryant",
         type:"Teacher",
-        avatar:"https://img-premium.flaticon.com/png/128/706/premium/706813.png?token=exp=1627226942~hmac=d19a7178e43b8859f484cfa26047ee87",
+        avatar:"https://image.flaticon.com/icons/png/128/2202/2202090.png",
     },
     {
         id:3,
         name:"Shane Jenkin",
         type:"Coordinator",
-        avatar:"https://img-premium.flaticon.com/png/128/706/premium/706802.png?token=exp=1627226942~hmac=4962a7557f377c7b1b40fa2090ed9557",
+        avatar:"https://img-png.flaticon.com/128/706/706814.png",
     },
 ];
 
@@ -66,19 +66,19 @@ export const CallsContact = [
         id:4,
         name:"Charlie Murray",
          type:"Student",
-         avatar:"https://img-premium.flaticon.com/png/128/706/premium/706807.png?token=exp=1627276176~hmac=fb73b5169a9c7985c4547d077251b80a",
+         avatar:"https://img-png.flaticon.com/128/706/706826.png",
     },
     {
         id:5,
         name:"Rose Sanders",
          type:"Coordinator",
-         avatar:"https://img-premium.flaticon.com/png/128/706/premium/706843.png?token=exp=1627291320~hmac=0e400a4e579c302c3a54a0960083d0a5",
+         avatar:"https://image.flaticon.com/icons/png/128/219/219969.png",
     },
     {
         id:6,
         name:"Carlos Patterson",
          type:"Admin",
-         avatar:"https://img-premium.flaticon.com/png/128/2202/premium/2202112.png?token=exp=1627276176~hmac=92ebfe6a922b8ee3158aee2dc455c47f",
+         avatar:"https://image.flaticon.com/icons/png/128/145/145843.png",
     },
     {
         id:7,

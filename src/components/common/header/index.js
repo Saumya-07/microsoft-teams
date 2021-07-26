@@ -21,7 +21,7 @@ function Header() {
                     </div>
                     <img 
                         className='header-avatar' 
-                        src='https://img-premium.flaticon.com/png/128/706/premium/706800.png?token=exp=1627130701~hmac=7646575f895689f2b90e1ef32217e9d8'
+                        src='https://image.flaticon.com/icons/png/128/146/146005.png'
                         alt='avatar'
                     />
                 </div>
